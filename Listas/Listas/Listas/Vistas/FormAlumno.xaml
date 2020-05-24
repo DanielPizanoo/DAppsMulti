@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Listas.Vistas.FormAlumno">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancelar" />
+        <ToolbarItem Text="Guardar" />
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Numero de Control" />
+            <Entry />
+            <Label Text="Nombre" />
+            <Entry />
+            <Label Text="Primer apellido" />
+            <Entry />
+            <Label Text="Segundo apellido" />
+            <Entry />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

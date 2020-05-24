@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9kLgtIk8GFhFJj+sqfEAfBO7gkWuzGqSUa9Q2lkVflTRGQO1CD2PKtI1CtQ0BuLR6SzRGRO/AHqSk+xrhMAmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielPizano\\source\\repos\\Geolocation\\Geolocation\\Geolocation\\Geolocation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms.googlemaps\\3.3.0\\xamarin.forms.googlemaps.3.3.0.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.726\\xamarin.forms.maps.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="MiPrimeraApp.MainPage">
+    
+
+    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center" >
+        <Label Text="Instituto Tecnológico de Colima" FontSize="Header" TextColor="Blue"/>
+        <Label Text="Ingeniería Informática" FontSize="Large" TextColor="Coral" HorizontalTextAlignment="Center"/>
+        <Label Text="Desarrollo de Apps Multiplataforma" FontSize="Caption" TextColor="Azure" HorizontalTextAlignment="Center"/>
+        <Label Text="Mi Primera App" FontSize="Title" TextColor="Fuchsia" HorizontalTextAlignment="Center"/>
+        <Label Text="Daniel Hernandez Pizano" FontSize="Medium" TextColor="BlueViolet" HorizontalTextAlignment="Center"/>
+        <Label Text="14460667" FontSize="Default" TextColor="DarkSlateGray" HorizontalTextAlignment="Center"/>
+
+
+        <StackLayout HorizontalOptions="End">
+            <Label Text="Villa de Álvarez, Col. 28 de febrero de 2020" FontSize="Default"/>
+            
+            
+        </StackLayout>
+        <Button Text="Entrar" Clicked="BtnEntrar_Clicked"/>
+
+
+
+
+
+
+
+    </StackLayout>
+
+</ContentPage>

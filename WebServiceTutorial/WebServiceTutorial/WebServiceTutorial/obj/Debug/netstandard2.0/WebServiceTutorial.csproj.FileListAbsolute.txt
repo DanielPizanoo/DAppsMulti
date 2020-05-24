@@ -1,0 +1,14 @@
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\bin\Debug\netstandard2.0\WebServiceTutorial.deps.json
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\bin\Debug\netstandard2.0\WebServiceTutorial.dll
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.csprojAssemblyReference.cache
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.AssemblyInfoInputs.cache
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.AssemblyInfo.cs
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\bin\Debug\netstandard2.0\ref\WebServiceTutorial.dll
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\bin\Debug\netstandard2.0\WebServiceTutorial.pdb
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.csproj.CoreCompileInputs.cache
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.dll
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\ref\WebServiceTutorial.dll
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.pdb

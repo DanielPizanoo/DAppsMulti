@@ -1,0 +1,1 @@
+C:\Users\DanielPizano\source\repos\Geolocator\Geolocator\Geolocator.UWP\Geolocator.UWP.csproj;x86

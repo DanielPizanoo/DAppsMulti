@@ -1,0 +1,1 @@
+C:\Users\DanielPizano\source\repos\WebServiceTutorial\WebServiceTutorial\WebServiceTutorial.UWP\WebServiceTutorial.UWP.csproj;x86

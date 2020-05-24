@@ -1,0 +1,13 @@
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\bin\Debug\netstandard2.0\XamApp.deps.json
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\bin\Debug\netstandard2.0\XamApp.dll
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\bin\Debug\netstandard2.0\ref\XamApp.dll
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\bin\Debug\netstandard2.0\XamApp.pdb
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\XamApp.csprojAssemblyReference.cache
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\XamApp.AssemblyInfoInputs.cache
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\XamApp.AssemblyInfo.cs
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\XamApp.dll
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\ref\XamApp.dll
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp\obj\Debug\netstandard2.0\XamApp.pdb

@@ -1,0 +1,14 @@
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.deps.json
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.dll
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.csprojAssemblyReference.cache
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.AssemblyInfoInputs.cache
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.AssemblyInfo.cs
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\ref\Geolocation.dll
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.pdb
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.dll
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\ref\Geolocation.dll
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.pdb
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.csproj.CoreCompileInputs.cache
+C:\Users\DanielPizano\source\repos\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\XamlC.stamp

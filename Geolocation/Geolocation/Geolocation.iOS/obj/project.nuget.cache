@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FzxiXVdJpzbnaJ1vr9ZeD1vMWFjEzYO8r5kqL0oxmJgCxwwkSXeB7s1MKQ1LZsmIkp2/DIwUarjY59Qr5oD6yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielPizano\\source\\repos\\Geolocation\\Geolocation\\Geolocation.iOS\\Geolocation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms.googlemaps\\3.3.0\\xamarin.forms.googlemaps.3.3.0.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.726\\xamarin.forms.maps.4.6.0.726.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.google.ios.maps\\3.5.0\\xamarin.google.ios.maps.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

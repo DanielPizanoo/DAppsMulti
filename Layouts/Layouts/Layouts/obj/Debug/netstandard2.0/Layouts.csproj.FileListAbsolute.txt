@@ -1,0 +1,14 @@
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\bin\Debug\netstandard2.0\Layouts.deps.json
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\bin\Debug\netstandard2.0\Layouts.dll
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\bin\Debug\netstandard2.0\ref\Layouts.dll
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\bin\Debug\netstandard2.0\Layouts.pdb
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\Layouts.csprojAssemblyReference.cache
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\Layouts.AssemblyInfoInputs.cache
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\Layouts.AssemblyInfo.cs
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\Layouts.dll
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\ref\Layouts.dll
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\Layouts.pdb
+C:\Users\DanielPizano\source\repos\Layouts\Layouts\Layouts\obj\Debug\netstandard2.0\Layouts.csproj.CoreCompileInputs.cache

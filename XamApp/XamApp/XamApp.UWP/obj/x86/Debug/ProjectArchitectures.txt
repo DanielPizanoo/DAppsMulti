@@ -1,0 +1,1 @@
+C:\Users\DanielPizano\source\repos\XamApp\XamApp\XamApp.UWP\XamApp.UWP.csproj;x86

@@ -1,0 +1,1 @@
+C:\Users\DanielPizano\source\repos\MiPrimeraApp\MiPrimeraApp\MiPrimeraApp.UWP\MiPrimeraApp.UWP.csproj;x86

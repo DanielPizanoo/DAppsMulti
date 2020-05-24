@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "byHfW03FsiJFjx9ONu3VIyNVzhhwSu0LVSPSDri8nV1c1o8TTLtnOL3DhiveUBWajd6c0XGIajwHLcPfka3rcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielPizano\\source\\repos\\Geolocator\\Geolocator\\Geolocator.iOS\\Geolocator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.essentials\\1.5.3.1\\xamarin.essentials.1.5.3.1.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512",
+    "C:\\Users\\DanielPizano\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.726\\xamarin.forms.maps.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}
