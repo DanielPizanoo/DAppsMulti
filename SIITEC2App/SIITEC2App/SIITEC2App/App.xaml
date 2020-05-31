@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SIITEC2App.App">
+    <Application.Resources>
+        <Color x:Key="ITColimaColor">#F5be00</Color>
+        <Color x:Key="SiitecColor">#333</Color>
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{StaticResource ITColimaColor}" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="CornerRadius" Value="4" />
+            <Setter Property="Padding" Value="16,8" />
+        </Style>
+
+        <Style TargetType="NavigationPage">
+            <Setter Property="BarBackgroundColor" Value="{StaticResource SiitecColor}" />
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,17 @@
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\bin\Debug\netstandard2.0\SIITEC2App.deps.json
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\bin\Debug\netstandard2.0\SIITEC2App.dll
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\SIITEC2App.csprojAssemblyReference.cache
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\SIITEC2App.AssemblyInfoInputs.cache
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\SIITEC2App.AssemblyInfo.cs
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\Vistas\Welcome.xaml.g.cs
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\SIITEC2App.csproj.CoreCompileInputs.cache
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\SIITEC2App.dll
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\ref\SIITEC2App.dll
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\SIITEC2App.pdb
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\bin\Debug\netstandard2.0\ref\SIITEC2App.dll
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\bin\Debug\netstandard2.0\SIITEC2App.pdb
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\Vistas\OAUTH2Login.xaml.g.cs
+C:\Users\DanielPizano\source\repos\SIITEC2App\SIITEC2App\SIITEC2App\obj\Debug\netstandard2.0\Vistas\Perfil\Consultar.xaml.g.cs

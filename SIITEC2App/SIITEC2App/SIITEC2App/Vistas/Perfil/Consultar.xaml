@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:conv="clr-namespace:SIITEC2App.Converters"
+             mc:Ignorable="d"
+             x:Class="SIITEC2App.Vistas.Perfil.Consultar"
+             Title="Datos del perfil">
+    <ContentPage.Resources>
+        <conv:CapitalizeConverter x:Key="CapitalizeConverter" />
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout BindingContext="{Binding Perfil}" Padding="16">
+            <Label FontSize="Title">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="{Binding Nombre}" />
+                        <Span Text="{Binding Apellido1, StringFormat=' {0}'}" />
+                        <Span Text="{Binding Apellido2, StringFormat=' {0}'}" />
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+            <Label FontSize="Subtitle" TextColor="DimGray"
+                   Text="{Binding TipoUsuario, Converter={StaticResource CapitalizeConverter}}" />
+            <Label Text="{Binding Carrera, Converter={StaticResource CapitalizeConverter}}" />
+            <Label Text="{Binding Departamento, Converter={StaticResource CapitalizeConverter}}" />
+
+            <Button Text="Cerrar sesion" x:Name="BtnLogout" Clicked="BtnLogout_Clicked" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
